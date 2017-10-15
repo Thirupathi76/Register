@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Android Proj\\Deccompiled\\Register\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callimg.png",
+        "source": "G:\\Android Proj\\Deccompiled\\Register\\app\\src\\main\\res\\drawable-hdpi\\callimg.png"
+    },
+    {
+        "merged": "G:\\Android Proj\\Deccompiled\\Register\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "G:\\Android Proj\\Deccompiled\\Register\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android Proj\\Deccompiled\\Register\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message.png",
+        "source": "G:\\Android Proj\\Deccompiled\\Register\\app\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "G:\\Android Proj\\Deccompiled\\Register\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unnamed.png",
+        "source": "G:\\Android Proj\\Deccompiled\\Register\\app\\src\\main\\res\\drawable-hdpi\\unnamed.png"
+    },
+    {
+        "merged": "G:\\Android Proj\\Deccompiled\\Register\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call.png",
+        "source": "G:\\Android Proj\\Deccompiled\\Register\\app\\src\\main\\res\\drawable-hdpi\\call.png"
+    }
+]
